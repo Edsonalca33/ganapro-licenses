@@ -1,3 +1,9 @@
 {
-  "licenses": []
+  "licenses": [
+    {
+      "code": "GP-GU7FQ-7UPS4-7VXGG",
+      "status": "active",
+      "cliente": "edson"
+    }
+  ]
 }
